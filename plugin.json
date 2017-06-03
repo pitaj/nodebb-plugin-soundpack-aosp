@@ -1,0 +1,30 @@
+{
+	"id": "nodebb-plugin-soundpack-aosp",
+	"name": "Android Sound Pack",
+  "soundpack": {
+    "name": "Android",
+    "dir": "sounds",
+    "sounds": {
+      "Ariel": "Ariel.ogg",
+      "End": "audio_end.ogg",
+      "Initiate": "audio_initiate.ogg",
+      "Click": "camera_click.ogg",
+      "Carme": "Carme.ogg",
+      "Ceres": "Ceres.ogg",
+      "Elara": "Elara.ogg",
+      "Europa": "Europa.ogg",
+      "Iapetus": "Iapetus.ogg",
+      "Io": "Io.ogg",
+      "Low": "LowBattery.ogg",
+      "Fall": "message_failure.ogg",
+      "Arrival": "message_inc_thread.ogg",
+      "Sent": "message_sent.ogg",
+      "Rhea": "Rhea.ogg",
+      "Salacia": "Salacia.ogg",
+      "Tethys": "Tethys.ogg",
+      "Titan": "Titan.ogg",
+      "Record": "VideoRecord.ogg",
+      "Start": "WirelessChargingStarted.ogg"
+    }
+  }
+}

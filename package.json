@@ -1,0 +1,29 @@
+{
+  "name": "nodebb-plugin-soundpack-aosp",
+  "version": "1.0.1",
+  "description": "Android notification sounds for NodeBB",
+  "main": "sounds.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pitaj/nodebb-plugin-soundpack-aosp.git"
+  },
+  "keywords": [
+    "android",
+    "notification",
+    "sound",
+    "nodebb",
+    "pack"
+  ],
+  "author": "PitaJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pitaj/nodebb-plugin-soundpack-aosp/issues"
+  },
+  "homepage": "https://github.com/pitaj/nodebb-plugin-soundpack-aosp#readme",
+  "nbbpm": {
+    "compatibility": "^1.4.1 || ^1.5.1"
+  }
+}
